@@ -1,0 +1,2 @@
+# Data Information
+This folder contains information about the datasets used for the Marketing Analytics Project. The datasets (Product Profile.csv, Conjoint Preferences.csv, PCA data.csv) were provided for the M.Sc. assignment and include 18 product profiles, 10 respondents’ ratings, and 32 product models with 11 features.

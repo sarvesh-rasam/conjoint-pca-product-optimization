@@ -1,0 +1,2 @@
+# Output Information
+This folder contains output files and visualization screenshots generated for the Marketing Analytics Project. Includes `conjoint-partworths.csv` (part-worth utilities), `perceptions_attributes.csv` (PCA attribute factors), `perceptions_scores.csv` (PCA model scores), and subfolders `conjoint_visuals/` and `pca_visuals/` with screenshots from Tableau visualizations.
