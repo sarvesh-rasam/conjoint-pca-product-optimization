@@ -19,7 +19,7 @@ Performed ratings-based conjoint analysis with OLS regression on 10 respondentsâ
 
 ## Data
 - Location: `data/README.md`
-- Note: Datasets kept local due to confidentiality.
+- Note: Datasets included but don't use it due to confidentiality.
 
 ## Output
 - Location: `output/`
